@@ -1,3 +1,7 @@
+![Prosek — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Prosek — Production Engineering & Workflow Architecture
 ## Corporate Communications · Global Financial Institutions · Corporate & Brand · Client: Prosek Partners
 
